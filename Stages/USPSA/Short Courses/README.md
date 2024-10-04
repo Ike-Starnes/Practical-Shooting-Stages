@@ -1,6 +1,6 @@
 # This folder contains USPSA Medium Course stages.
 
-## 1.2.1.1 Short Courses
+## [1.2.1.1 Short Courses](https://uspsa.org/rules)
 
 Require **1** to **12** rounds to complete.
 

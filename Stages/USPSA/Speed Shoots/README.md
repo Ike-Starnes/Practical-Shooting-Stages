@@ -1,6 +1,6 @@
 # This folder contains USPSA Speed Shoot stages.
 
-##1.2.2.3 Speed Shoot
+## [1.2.2.3 Speed Shoot](https://uspsa.org/rules)
 
 Courses of fire consisting of one continuous string of fire not exceeding **16** rounds shot on one or more arrays of multiple targets from a single location.
 
@@ -10,4 +10,4 @@ No more than **8** rounds may be required without a mandatory reload and no more
 
 Stage may be scored either *Comstock*, *Fixed Time*, or *Virginia Count*.
 
-See Rule **9.2.3.2**.
+See Rule [**9.2.3.2**](https://uspsa.org/rules).

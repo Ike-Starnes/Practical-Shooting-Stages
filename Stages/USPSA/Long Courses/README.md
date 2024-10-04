@@ -1,6 +1,6 @@
 # This folder contains USPSA Long Course stages.
 
-## 1.2.1.3 Long Courses
+## [1.2.1.3 Long Courses](https://uspsa.org/rules)
 
 Must not require less than **21** rounds to complete for all match levels.
 

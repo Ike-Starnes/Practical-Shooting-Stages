@@ -1,1 +1,1 @@
-This folder contains USPSA stages.
+This folder contains [USPSA](https://uspsa.org/) stages.
