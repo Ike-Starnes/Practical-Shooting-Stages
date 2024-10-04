@@ -1,6 +1,6 @@
-#This folder contains USPSA Medium Course stages.
+# This folder contains USPSA Medium Course stages.
 
-##1.2.1.2 Medium Courses
+## 1.2.1.2 Medium Courses
 
 Require **13** to **20** rounds to complete.
 

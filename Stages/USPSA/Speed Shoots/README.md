@@ -6,7 +6,7 @@ Courses of fire consisting of one continuous string of fire not exceeding **16**
 
 The *Written Stage Briefing* may specify engaging arrays of targets without violating rule *(1.1.5)*, as long as the competitor is allowed to engage said arrays in any order, and individual target engagement is not specified.
 
-No more than **8** rounds may be required without a mandatory reload and no more than one mandatory reload may be required in the course of fire. Weak/Strong handmay be stipulated after the reload is complete.
+No more than **8** rounds may be required without a mandatory reload and no more than one mandatory reload may be required in the course of fire. Weak/Strong hand may be stipulated after the reload is complete.
 
 Stage may be scored either *Comstock*, *Fixed Time*, or *Virginia Count*.
 
