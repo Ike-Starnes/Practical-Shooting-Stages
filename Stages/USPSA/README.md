@@ -1,0 +1,1 @@
+This folder contains USPSA stages.
