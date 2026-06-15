@@ -1,0 +1,5703 @@
+{
+	"stageName": "<some cool name>",
+	"stageAuthor": "<your name>",
+	"stageLastUpdate": "2026.03.08-17.43.26",
+	"propList": [
+		{
+			"propName": "wall-1x2-port-flap",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": -402.76980590820312,
+					"Y": 147.424560546875,
+					"Z": 0.10009765625
+				},
+				"Scale3D":
+				{
+					"X": 2.3599987030029297,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 115,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 1,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 2.3599987030029297,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 0,
+			"rulerFontSizeScale": 0,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": -0.70724743604660034,
+					"W": 0.7069661021232605
+				},
+				"Translation":
+				{
+					"X": -689.5054931640625,
+					"Y": -716.6143798828125,
+					"Z": 2.1005859375
+				},
+				"Scale3D":
+				{
+					"X": 54.728557586669922,
+					"Y": 0.5,
+					"Z": 1
+				}
+			},
+			"uniqueID": 58,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": true,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"targetTextHeightOffset": 0,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 4,
+			"rulerStyleChoice": 2,
+			"rulerThickness": 3,
+			"rulerFontSizeScale": 0.5,
+			"rulerTipChoice2": 4,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": -0.0015465021133422852,
+					"W": 0.99999880790710449
+				},
+				"Translation":
+				{
+					"X": -718.44677734375,
+					"Y": -708.54266357421875,
+					"Z": 2.100830078125
+				},
+				"Scale3D":
+				{
+					"X": 5.9571194648742676,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 59,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 1,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 1,
+			"rulerFontSizeScale": 0.5,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0.70689767599105835,
+					"W": 0.70731586217880249
+				},
+				"Translation":
+				{
+					"X": -722.750244140625,
+					"Y": -714.96600341796875,
+					"Z": 2.1005859375
+				},
+				"Scale3D":
+				{
+					"X": 60.965435028076172,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 60,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 1,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": -90
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 1,
+			"rulerFontSizeScale": 0.5,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0.70897489786148071,
+					"W": 0.70523369312286377
+				},
+				"Translation":
+				{
+					"X": -754.3358154296875,
+					"Y": -712.59857177734375,
+					"Z": 2.1005859375
+				},
+				"Scale3D":
+				{
+					"X": 60.767631530761719,
+					"Y": 0.5,
+					"Z": 1
+				}
+			},
+			"uniqueID": 61,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": true,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"targetTextHeightOffset": 0,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 4,
+			"rulerStyleChoice": 2,
+			"rulerThickness": 3,
+			"rulerFontSizeScale": 0.5,
+			"rulerTipChoice2": 4,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0.70689761638641357,
+					"W": 0.70731592178344727
+				},
+				"Translation":
+				{
+					"X": -653.6248779296875,
+					"Y": -715.0194091796875,
+					"Z": 2.1005859375
+				},
+				"Scale3D":
+				{
+					"X": 60.965442657470703,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 62,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 1,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": -90
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 1,
+			"rulerFontSizeScale": 0.5,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": -0.0015465021133422852,
+					"W": 0.99999880790710449
+				},
+				"Translation":
+				{
+					"X": -717.54351806640625,
+					"Y": -111.23471832275391,
+					"Z": 2.10009765625
+				},
+				"Scale3D":
+				{
+					"X": 5.9571199417114258,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 63,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 1,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 1,
+			"rulerFontSizeScale": 0.5,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0.0014136729296296835,
+					"W": 0.99999898672103882
+				},
+				"Translation":
+				{
+					"X": -270.51422119140625,
+					"Y": -224.85601806640625,
+					"Z": 2.100341796875
+				},
+				"Scale3D":
+				{
+					"X": 12.103880882263184,
+					"Y": 0.5,
+					"Z": 1
+				}
+			},
+			"uniqueID": 64,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": true,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": -90
+			},
+			"targetTextHeightOffset": 0,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 4,
+			"rulerStyleChoice": 2,
+			"rulerThickness": 3,
+			"rulerFontSizeScale": 0.5,
+			"rulerTipChoice2": 4,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0.0014136729296296835,
+					"W": 0.99999898672103882
+				},
+				"Translation":
+				{
+					"X": -646.9517822265625,
+					"Y": -231.49288940429688,
+					"Z": 2.1005859375
+				},
+				"Scale3D":
+				{
+					"X": 12.103878974914551,
+					"Y": 0.5,
+					"Z": 1
+				}
+			},
+			"uniqueID": 65,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": true,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": -90
+			},
+			"targetTextHeightOffset": 0,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 4,
+			"rulerStyleChoice": 2,
+			"rulerThickness": 3,
+			"rulerFontSizeScale": 0.5,
+			"rulerTipChoice2": 4,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": -0.70254403352737427,
+					"W": 0.71164029836654663
+				},
+				"Translation":
+				{
+					"X": -536.404296875,
+					"Y": -222.35205078125,
+					"Z": 2.100341796875
+				},
+				"Scale3D":
+				{
+					"X": 9.1606941223144531,
+					"Y": 0.5,
+					"Z": 1
+				}
+			},
+			"uniqueID": 66,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": true,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": -90
+			},
+			"targetTextHeightOffset": 0,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 4,
+			"rulerStyleChoice": 2,
+			"rulerThickness": 3,
+			"rulerFontSizeScale": 0.5,
+			"rulerTipChoice2": 4,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": -0.0012463590828701854,
+					"W": 0.99999922513961792
+				},
+				"Translation":
+				{
+					"X": -523.236083984375,
+					"Y": -313.61288452148438,
+					"Z": 2.100341796875
+				},
+				"Scale3D":
+				{
+					"X": 24.470102310180664,
+					"Y": 0.5,
+					"Z": 1
+				}
+			},
+			"uniqueID": 68,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": true,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": -90
+			},
+			"targetTextHeightOffset": 0,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 4,
+			"rulerStyleChoice": 2,
+			"rulerThickness": 3,
+			"rulerFontSizeScale": 0.5,
+			"rulerTipChoice2": 4,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0.70689761638641357,
+					"W": 0.70731592178344727
+				},
+				"Translation":
+				{
+					"X": -73.249420166015625,
+					"Y": -715.66497802734375,
+					"Z": 2.100341796875
+				},
+				"Scale3D":
+				{
+					"X": 60.965446472167969,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 69,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 1,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": -90
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 1,
+			"rulerFontSizeScale": 0.5,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": -0.0012463590828701854,
+					"W": 0.99999922513961792
+				},
+				"Translation":
+				{
+					"X": -69.286544799804688,
+					"Y": -685.8480224609375,
+					"Z": 2.100341796875
+				},
+				"Scale3D":
+				{
+					"X": 24.470102310180664,
+					"Y": 0.5,
+					"Z": 1
+				}
+			},
+			"uniqueID": 94,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": true,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": -90
+			},
+			"targetTextHeightOffset": 0,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 4,
+			"rulerStyleChoice": 2,
+			"rulerThickness": 3,
+			"rulerFontSizeScale": 0.5,
+			"rulerTipChoice2": 4,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": -0.70798754692077637,
+					"W": 0.70622491836547852
+				},
+				"Translation":
+				{
+					"X": 175.80621337890625,
+					"Y": -684.25970458984375,
+					"Z": 2.100341796875
+				},
+				"Scale3D":
+				{
+					"X": 24.470102310180664,
+					"Y": 0.5,
+					"Z": 1
+				}
+			},
+			"uniqueID": 96,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": true,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": -180
+			},
+			"targetTextHeightOffset": 0,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 4,
+			"rulerStyleChoice": 2,
+			"rulerThickness": 3,
+			"rulerFontSizeScale": 0.5,
+			"rulerTipChoice2": 4,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0.70689761638641357,
+					"W": 0.70731592178344727
+				},
+				"Translation":
+				{
+					"X": -142.37484741210938,
+					"Y": -715.611572265625,
+					"Z": 2.100341796875
+				},
+				"Scale3D":
+				{
+					"X": 60.965431213378906,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 73,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 1,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": -90
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 1,
+			"rulerFontSizeScale": 0.5,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": -0.0015465021133422852,
+					"W": 0.99999880790710449
+				},
+				"Translation":
+				{
+					"X": -138.07147216796875,
+					"Y": -709.188232421875,
+					"Z": 2.1005859375
+				},
+				"Scale3D":
+				{
+					"X": 5.9571189880371094,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 74,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 1,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 1,
+			"rulerFontSizeScale": 0.5,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": -0.0012463590828701854,
+					"W": 0.99999922513961792
+				},
+				"Translation":
+				{
+					"X": 299.19985961914062,
+					"Y": -916.91290283203125,
+					"Z": 2.100341796875
+				},
+				"Scale3D":
+				{
+					"X": 24.470102310180664,
+					"Y": 0.5,
+					"Z": 1
+				}
+			},
+			"uniqueID": 98,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": true,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": -90
+			},
+			"targetTextHeightOffset": 0,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 4,
+			"rulerStyleChoice": 2,
+			"rulerThickness": 3,
+			"rulerFontSizeScale": 0.5,
+			"rulerTipChoice2": 4,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": -0.0015465021133422852,
+					"W": 0.99999880790710449
+				},
+				"Translation":
+				{
+					"X": -138.01469421386719,
+					"Y": -115.35307312011719,
+					"Z": 2.10009765625
+				},
+				"Scale3D":
+				{
+					"X": 5.9571189880371094,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 76,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 1,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 1,
+			"rulerFontSizeScale": 0.5,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": -0.0012463590828701854,
+					"W": 0.99999922513961792
+				},
+				"Translation":
+				{
+					"X": -974.0975341796875,
+					"Y": -695.87274169921875,
+					"Z": 2.100341796875
+				},
+				"Scale3D":
+				{
+					"X": 24.470102310180664,
+					"Y": 0.5,
+					"Z": 1
+				}
+			},
+			"uniqueID": 101,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": true,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": -90
+			},
+			"targetTextHeightOffset": 0,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 4,
+			"rulerStyleChoice": 2,
+			"rulerThickness": 3,
+			"rulerFontSizeScale": 0.5,
+			"rulerTipChoice2": 4,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": -0.70798754692077637,
+					"W": 0.70622491836547852
+				},
+				"Translation":
+				{
+					"X": -971.6011962890625,
+					"Y": -699.19580078125,
+					"Z": 2.100341796875
+				},
+				"Scale3D":
+				{
+					"X": 24.470102310180664,
+					"Y": 0.5,
+					"Z": 1
+				}
+			},
+			"uniqueID": 102,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": true,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": -180
+			},
+			"targetTextHeightOffset": 0,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 4,
+			"rulerStyleChoice": 2,
+			"rulerThickness": 3,
+			"rulerFontSizeScale": 0.5,
+			"rulerTipChoice2": 4,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": -0,
+					"Y": 0,
+					"Z": -0.0012463590828701854,
+					"W": 0.99999922513961792
+				},
+				"Translation":
+				{
+					"X": -1327.443115234375,
+					"Y": -892.10394287109375,
+					"Z": 2.10009765625
+				},
+				"Scale3D":
+				{
+					"X": 24.470102310180664,
+					"Y": 0.5,
+					"Z": 1
+				}
+			},
+			"uniqueID": 104,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": true,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": -90
+			},
+			"targetTextHeightOffset": 0,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 4,
+			"rulerStyleChoice": 2,
+			"rulerThickness": 3,
+			"rulerFontSizeScale": 0.5,
+			"rulerTipChoice2": 4,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": -0,
+					"Y": 0,
+					"Z": -0.70798754692077637,
+					"W": 0.70622491836547852
+				},
+				"Translation":
+				{
+					"X": 319.50180053710938,
+					"Y": -922.8717041015625,
+					"Z": 2.100341796875
+				},
+				"Scale3D":
+				{
+					"X": 24.470102310180664,
+					"Y": 0.5,
+					"Z": 1
+				}
+			},
+			"uniqueID": 108,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": true,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": -180
+			},
+			"targetTextHeightOffset": 0,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 4,
+			"rulerStyleChoice": 2,
+			"rulerThickness": 3,
+			"rulerFontSizeScale": 0.5,
+			"rulerTipChoice2": 4,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": -0,
+					"Y": 0,
+					"Z": -0.70798754692077637,
+					"W": 0.70622491836547852
+				},
+				"Translation":
+				{
+					"X": -1097.99560546875,
+					"Y": -934.5252685546875,
+					"Z": 2.100341796875
+				},
+				"Scale3D":
+				{
+					"X": 24.470102310180664,
+					"Y": 0.5,
+					"Z": 1
+				}
+			},
+			"uniqueID": 109,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": true,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": -180
+			},
+			"targetTextHeightOffset": 0,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 4,
+			"rulerStyleChoice": 2,
+			"rulerThickness": 3,
+			"rulerFontSizeScale": 0.5,
+			"rulerTipChoice2": 4,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0.70918387174606323,
+					"W": 0.70502352714538574
+				},
+				"Translation":
+				{
+					"X": -399.6279296875,
+					"Y": -1062.9564208984375,
+					"Z": 2.100341796875
+				},
+				"Scale3D":
+				{
+					"X": 94.2520751953125,
+					"Y": 0.5,
+					"Z": 1
+				}
+			},
+			"uniqueID": 110,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": true,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"targetTextHeightOffset": 0,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 4,
+			"rulerStyleChoice": 2,
+			"rulerThickness": 3,
+			"rulerFontSizeScale": 0.5,
+			"rulerTipChoice2": 4,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": -0,
+					"Y": 0,
+					"Z": -0.70798754692077637,
+					"W": 0.70622491836547852
+				},
+				"Translation":
+				{
+					"X": -404.44400024414062,
+					"Y": 143.460693359375,
+					"Z": 2.10009765625
+				},
+				"Scale3D":
+				{
+					"X": 24.470102310180664,
+					"Y": 0.5,
+					"Z": 1
+				}
+			},
+			"uniqueID": 111,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": true,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": -180
+			},
+			"targetTextHeightOffset": 0,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 4,
+			"rulerStyleChoice": 2,
+			"rulerThickness": 3,
+			"rulerFontSizeScale": 0.5,
+			"rulerTipChoice2": 4,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": -0,
+					"Y": 0,
+					"Z": -0.0012463590828701854,
+					"W": 0.99999922513961792
+				},
+				"Translation":
+				{
+					"X": -525.86309814453125,
+					"Y": 152.04730224609375,
+					"Z": 2.10009765625
+				},
+				"Scale3D":
+				{
+					"X": 24.470102310180664,
+					"Y": 0.5,
+					"Z": 1
+				}
+			},
+			"uniqueID": 117,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": true,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": -90
+			},
+			"targetTextHeightOffset": 0,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 4,
+			"rulerStyleChoice": 2,
+			"rulerThickness": 3,
+			"rulerFontSizeScale": 0.5,
+			"rulerTipChoice2": 4,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "faultline-adjustable",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0.70796853303909302,
+					"W": 0.70624399185180664
+				},
+				"Translation":
+				{
+					"X": -255.28811645507812,
+					"Y": -907.3441162109375,
+					"Z": 2.10009765625
+				},
+				"Scale3D":
+				{
+					"X": 9.0141506195068359,
+					"Y": 0.5,
+					"Z": 1
+				}
+			},
+			"uniqueID": 118,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 2,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": true,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": -180
+			},
+			"targetTextHeightOffset": 0,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 4,
+			"rulerStyleChoice": 2,
+			"rulerThickness": 3,
+			"rulerFontSizeScale": 0.5,
+			"rulerTipChoice2": 4,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "wall-med-color",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": -0.70710527896881104,
+					"W": 0.7071082592010498
+				},
+				"Translation":
+				{
+					"X": -528.2412109375,
+					"Y": -687.36846923828125,
+					"Z": 0.100341796875
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 79,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 1,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": -90
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 0,
+			"rulerFontSizeScale": 0,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "wall-med-color",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": -0.70710527896881104,
+					"W": 0.7071082592010498
+				},
+				"Translation":
+				{
+					"X": -274.035888671875,
+					"Y": -683.5921630859375,
+					"Z": 0.100341796875
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 80,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 1,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": -90
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 0,
+			"rulerFontSizeScale": 0,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "uspsa-full-target",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": -400.01116943359375,
+					"Y": -1067.423583984375,
+					"Z": 0.10009765625
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 85,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0.81484699249267578,
+				"G": 0.42326799035072327,
+				"B": 0.149959996342659,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": " T7",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": false,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 0,
+			"rulerFontSizeScale": 0,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "uspsa-full-target",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0.0082752257585525513,
+					"Y": -0.002768451813608408,
+					"Z": 0.26722848415374756,
+					"W": 0.96359366178512573
+				},
+				"Translation":
+				{
+					"X": 35.51611328125,
+					"Y": -126.18603515625,
+					"Z": 0.100341796875
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 90,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0.81484699249267578,
+				"G": 0.42326799035072327,
+				"B": 0.149959996342659,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": " T10",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": false,
+			"paperModifierRotation":
+			{
+				"X": -1,
+				"Y": 0,
+				"Z": 31
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 0,
+			"rulerFontSizeScale": 0,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "uspsa-full-target",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": -0.258819580078125,
+					"W": 0.96592569351196289
+				},
+				"Translation":
+				{
+					"X": -826.971923828125,
+					"Y": -127.719482421875,
+					"Z": 0.100341796875
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 91,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0.81484699249267578,
+				"G": 0.42326799035072327,
+				"B": 0.149959996342659,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": " T4",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": false,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": -30
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 0,
+			"rulerFontSizeScale": 0,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "uspsa-full-target",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0.35020765662193298,
+					"W": 0.93667209148406982
+				},
+				"Translation":
+				{
+					"X": 580.44287109375,
+					"Y": -897.88671875,
+					"Z": 0.100341796875
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 99,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0.81484699249267578,
+				"G": 0.42326799035072327,
+				"B": 0.149959996342659,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": " T13",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": false,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 41
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 0,
+			"rulerFontSizeScale": 0,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "uspsa-full-target",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": -0,
+					"Y": 0,
+					"Z": -0.258819580078125,
+					"W": 0.96592569351196289
+				},
+				"Translation":
+				{
+					"X": -1319.0264892578125,
+					"Y": -898.1181640625,
+					"Z": 0.100341796875
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 106,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0.81484699249267578,
+				"G": 0.42326799035072327,
+				"B": 0.149959996342659,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": " T1",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": false,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": -30
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 0,
+			"rulerFontSizeScale": 0,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "barrel-plastic-stack",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": -490.12802124023438,
+					"Y": -603.9486083984375,
+					"Z": 0.100341796875
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 77,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 0,
+			"rulerFontSizeScale": 0,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "barrel-plastic-stack",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": -309.69320678710938,
+					"Y": -605.7330322265625,
+					"Z": 0.100341796875
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 78,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 0,
+			"rulerFontSizeScale": 0,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "barrel-plastic-stack",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": -763.0782470703125,
+					"Y": -130.9417724609375,
+					"Z": 0.100341796875
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 88,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 0,
+			"rulerFontSizeScale": 0,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "barrel-plastic-stack",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": -34.711334228515625,
+					"Y": -129.21591186523438,
+					"Z": 0.100341796875
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 89,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 0,
+			"rulerFontSizeScale": 0,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "barrel-plastic-stack",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": -470.595458984375,
+					"Y": -984.30072021484375,
+					"Z": 0.10009765625
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 92,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 0,
+			"rulerFontSizeScale": 0,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "barrel-plastic-stack",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": -328.201171875,
+					"Y": -977.7421875,
+					"Z": 0.10009765625
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 93,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 0,
+			"rulerFontSizeScale": 0,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "barrel-plastic-stack",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": 471.85855102539062,
+					"Y": -867.61383056640625,
+					"Z": 0.100341796875
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 100,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 0,
+			"rulerFontSizeScale": 0,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "barrel-plastic-stack",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": -1248.3453369140625,
+					"Y": -880.56103515625,
+					"Z": 0.100341796875
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 105,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 0,
+			"rulerFontSizeScale": 0,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "uspsa-two-stack-noshoot",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0.32556784152984619,
+					"W": 0.94551867246627808
+				},
+				"Translation":
+				{
+					"X": -216.12155151367188,
+					"Y": -1073.806884765625,
+					"Z": 0.10009765625
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 83,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0.81484699249267578,
+				"G": 0.42326799035072327,
+				"B": 0.149959996342659,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": " T8 T9",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": false,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 38
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 0,
+			"rulerFontSizeScale": 0,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "uspsa-two-stack-noshoot",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": -0,
+					"Y": 0,
+					"Z": -0.25037974119186401,
+					"W": 0.96814769506454468
+				},
+				"Translation":
+				{
+					"X": -602.52294921875,
+					"Y": -1079.7435302734375,
+					"Z": 0.10009765625
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 84,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0.81484699249267578,
+				"G": 0.42326799035072327,
+				"B": 0.149959996342659,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": " T5 T6",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": false,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": -29
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 0,
+			"rulerFontSizeScale": 0,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "wall-short-color",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": -0,
+					"Y": 0,
+					"Z": -0.92050421237945557,
+					"W": 0.39073258638381958
+				},
+				"Translation":
+				{
+					"X": -593.02642822265625,
+					"Y": -961.26617431640625,
+					"Z": 0.10009765625
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 81,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 1,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": -134
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 0,
+			"rulerFontSizeScale": 0,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "wall-short-color",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0.92387944459915161,
+					"W": 0.38268351554870605
+				},
+				"Translation":
+				{
+					"X": -227.31022644042969,
+					"Y": -954.3675537109375,
+					"Z": 0.10009765625
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 82,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 1,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 135
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 0,
+			"rulerFontSizeScale": 0,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "wall-short-color",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": 233.18923950195312,
+					"Y": -932.9156494140625,
+					"Z": 0.100341796875
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 95,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 1,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 0,
+			"rulerFontSizeScale": 0,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "wall-short-color",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": -1036.3287353515625,
+					"Y": -947.3441162109375,
+					"Z": 0.100341796875
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 103,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 1,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 0,
+			"rulerFontSizeScale": 0,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "one-X",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": -426.2322998046875,
+					"Y": -112.44830322265625,
+					"Z": 0.10009765625
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 86,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 1,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 0,
+			"rulerFontSizeScale": 0,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "one-X",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": -387.5242919921875,
+					"Y": -110.59054565429688,
+					"Z": 0.10009765625
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 87,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 1,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 0,
+			"rulerFontSizeScale": 0,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "wall-vport-med-color",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": -0.70710527896881104,
+					"W": 0.7071082592010498
+				},
+				"Translation":
+				{
+					"X": -275.12106323242188,
+					"Y": -315.78952026367188,
+					"Z": 0.100341796875
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 57,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 1,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": -90
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 0,
+			"rulerFontSizeScale": 0,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "wall-vport-med-color",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": -0.70710527896881104,
+					"W": 0.7071082592010498
+				},
+				"Translation":
+				{
+					"X": -527.0423583984375,
+					"Y": -318.0889892578125,
+					"Z": 0.100341796875
+				},
+				"Scale3D":
+				{
+					"X": 0.99999994039535522,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 67,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 1,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": -90
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 0,
+			"rulerFontSizeScale": 0,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "uspsa-two-noshoot-vert",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": -0,
+					"Z": 0.38268336653709412,
+					"W": 0.92387956380844116
+				},
+				"Translation":
+				{
+					"X": 320.37216186523438,
+					"Y": -1174.781982421875,
+					"Z": 0.100341796875
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 97,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0.81484699249267578,
+				"G": 0.42326799035072327,
+				"B": 0.149959996342659,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": " T11 T12",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": false,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 45
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 0,
+			"rulerFontSizeScale": 0,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "uspsa-two-noshoot-vert",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": -0,
+					"Y": 0,
+					"Z": -0.38268342614173889,
+					"W": 0.92387950420379639
+				},
+				"Translation":
+				{
+					"X": -1099.71240234375,
+					"Y": -1183.0770263671875,
+					"Z": 0.100341796875
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 107,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0.81484699249267578,
+				"G": 0.42326799035072327,
+				"B": 0.149959996342659,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": " T2 T3",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": false,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": -45
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 0,
+			"rulerFontSizeScale": 0,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		},
+		{
+			"propName": "shooting-box-1yx1y",
+			"propTransform":
+			{
+				"Rotation":
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0,
+					"W": 1
+				},
+				"Translation":
+				{
+					"X": -407.89559936523438,
+					"Y": 223.795166015625,
+					"Z": 0.10009765625
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"uniqueID": 116,
+			"activateIDs": [],
+			"groupID": [],
+			"zOffset": 0,
+			"customAdImageFilename": "",
+			"customAdImage": "",
+			"customColor":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 1,
+				"A": 1
+			},
+			"waypointNumber": 0,
+			"waypointDelayDuration": 2,
+			"waypointStance": "walk",
+			"width": 1,
+			"height": 1,
+			"depth": 1,
+			"isLocked": false,
+			"customText": "",
+			"customPropDetails":
+			{
+				"customPropName": "",
+				"customPropGLBFilePath": "",
+				"customPropAuthor": ""
+			},
+			"sightlinePrecision": 0,
+			"customTextColor":
+			{
+				"R": 0.019999999552965164,
+				"G": 0.019999999552965164,
+				"B": 0.019999999552965164,
+				"A": 1
+			},
+			"swingerAngle": 90,
+			"portOpen": false,
+			"isRuler": false,
+			"fontSelection": 0,
+			"isShowTargetText": true,
+			"paperModifierRotation":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"targetTextHeightOffset": 220,
+			"hasTargetTextChanged": false,
+			"customSecondaryColor":
+			{
+				"R": 1,
+				"G": 1,
+				"B": 1,
+				"A": 1
+			},
+			"plateChoice": 0,
+			"rulerTipChoice": 0,
+			"rulerStyleChoice": 0,
+			"rulerThickness": 0,
+			"rulerFontSizeScale": 0,
+			"rulerTipChoice2": 0,
+			"paperChoice": 0,
+			"rulerTextPosition": 0,
+			"rulerTextOverride": "",
+			"rulerIgnoreFaceText": false,
+			"rackPattern": "000000",
+			"propOffset":
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"fontSize": 6
+		}
+	],
+	"stageBrief": "Welcome to stage <some cool name>. My name is <your name> and I am the CRO for this stage.\r\n\r\n<some cool name> is a 0 round, 0 point COMSTOCK <stage-size> course. There are 0 <metric/classic> targets and 0 steel. The start signal is audible.\r\n\r\nThe start position is standing anywhere in the shooting area, facing down range with wrists below belt. Handgun is loaded and holstered.\r\nPCC start position is standing anywhere in the shooting area, facing down range, stock on belt, safety on, muzzle pointed down range, loaded carbine held in both hands with safety on.\r\n\r\nOn the audible start signal, engage all targets from within the shooting area. Best two hits on paper and steel must fall to score.",
+	"buildInstructions": "<Put any build instructions here for the build crew>",
+	"numPaper": 0,
+	"numSteel": 0,
+	"numNoshoots": 0,
+	"numPoints": 0,
+	"numPerPaper": 2,
+	"numRounds": 0,
+	"scoringType": 0,
+	"paperType": 0,
+	"courseType": 2,
+	"bayType": 0,
+	"skyRotation": 0,
+	"skyType": 0,
+	"startPosition": "The start position is standing anywhere in the shooting area, facing down range with wrists below belt. Handgun is loaded and holstered. PCC start position is stock on belt, safety on, muzzle pointing downrange",
+	"procedure": "On the audible start signal, engage all targets from within the shooting area.",
+	"customCameraTransform":
+	{
+		"Rotation":
+		{
+			"X": 0,
+			"Y": 0,
+			"Z": 0,
+			"W": 1
+		},
+		"Translation":
+		{
+			"X": 0,
+			"Y": 0,
+			"Z": 0
+		},
+		"Scale3D":
+		{
+			"X": 1,
+			"Y": 1,
+			"Z": 1
+		}
+	},
+	"customCameraFOV": 5000,
+	"stageShape":
+	{
+		"presetName": "Rowan Bay 3",
+		"arrayVector2D": [
+			{
+				"X": 1,
+				"Y": 1
+			},
+			{
+				"X": 34.533340454101562,
+				"Y": 1
+			},
+			{
+				"X": 68.066665649414062,
+				"Y": 1
+			},
+			{
+				"X": 101.59999084472656,
+				"Y": 1
+			},
+			{
+				"X": 135.13334655761719,
+				"Y": 1
+			},
+			{
+				"X": 168.66670227050781,
+				"Y": 1
+			},
+			{
+				"X": 202.20002746582031,
+				"Y": 1
+			},
+			{
+				"X": 202.20002746582031,
+				"Y": 36.050003051757812
+			},
+			{
+				"X": 202.20002746582031,
+				"Y": 71.099990844726562
+			},
+			{
+				"X": 202.20002746582031,
+				"Y": 106.15000915527344
+			},
+			{
+				"X": 202.20002746582031,
+				"Y": 141.19999694824219
+			},
+			{
+				"X": 202.20002746582031,
+				"Y": 176.24998474121094
+			},
+			{
+				"X": 202.20002746582031,
+				"Y": 211.29997253417969
+			},
+			{
+				"X": 168.66670227050781,
+				"Y": 211.30000305175781
+			},
+			{
+				"X": 135.13334655761719,
+				"Y": 211.30000305175781
+			},
+			{
+				"X": 101.59999084472656,
+				"Y": 211.30000305175781
+			},
+			{
+				"X": 68.066665649414062,
+				"Y": 211.30000305175781
+			},
+			{
+				"X": 34.533340454101562,
+				"Y": 211.30000305175781
+			},
+			{
+				"X": 1,
+				"Y": 211.30000305175781
+			},
+			{
+				"X": 1,
+				"Y": 176.24998474121094
+			},
+			{
+				"X": 1,
+				"Y": 141.19999694824219
+			},
+			{
+				"X": 1,
+				"Y": 106.15000915527344
+			},
+			{
+				"X": 1,
+				"Y": 71.099990844726562
+			},
+			{
+				"X": 1,
+				"Y": 36.050003051757812
+			},
+			{
+				"X": 1,
+				"Y": 1
+			}
+		],
+		"wallTexture": 19,
+		"groundTexture": "White",
+		"showHideFrontWalls": false,
+		"width": 20.120000839233398,
+		"height": 21.030000686645508,
+		"wallHeight": 0
+	},
+	"upvotes": 0,
+	"downvotes": 0,
+	"downloads": 0,
+	"account": "IkeStarnes40@gmail.com",
+	"stageKey": "",
+	"upvotesList": [],
+	"downvotesList": [],
+	"scannedBayName": "",
+	"customImages":
+	{
+		"uspsaLogoMain": "",
+		"nroiLogo": "",
+		"ipscLogo": "",
+		"uspsaLogoSecond": "",
+		"idpaLogoOne": "",
+		"idpaLogoTwo": "",
+		"ismocLogoOne": "",
+		"ismocLogoTwo": "",
+		"ismocLogoCenter": "",
+		"customLayoutImage": "",
+		"customBottomBarImage": "",
+		"genericLogo": "blank",
+		"pcslLogoMain": "",
+		"pcslLogoPage2-01": "",
+		"pcslLogoPage2-02": "",
+		"customScannedBayImage": "",
+		"ipscImageOne": "",
+		"ipscImageTwo": "",
+		"genericImageOne": "",
+		"genericImageTwo": ""
+	},
+	"startStop": "Audible - Last Shot",
+	"muzzleSafe": "180-degree plane",
+	"distances": "x yards",
+	"concealment": 0,
+	"cameraSelection": 0,
+	"templateSelection": 0,
+	"celShadingSelection": 0,
+	"simpleBGSelection": 0,
+	"userCameraList": [
+		{
+			"camLocation":
+			{
+				"Rotation":
+				{
+					"X": 0.28759050369262695,
+					"Y": 0.28762203454971313,
+					"Z": -0.64594578742980957,
+					"W": 0.64600259065628052
+				},
+				"Translation":
+				{
+					"X": -0.0040283203125,
+					"Y": 350.53759765625,
+					"Z": 462.99951171875
+				},
+				"Scale3D":
+				{
+					"X": 1,
+					"Y": 1,
+					"Z": 1
+				}
+			},
+			"camFOV": 90,
+			"camName": "Default",
+			"camPerspective": "Perspective",
+			"camSequenceNo": 0,
+			"camCelShade": false,
+			"camSimplify": false,
+			"camTop2DView": false,
+			"camSizeX": 3840,
+			"camSizeY": 2160,
+			"camTextFaceCamera": false,
+			"camFilter": "None",
+			"camNotes": "",
+			"normalizeText": false,
+			"contrastSetting": 1,
+			"gammaSetting": 1,
+			"showLegend": false,
+			"hideMarkers": false
+		}
+	],
+	"playbackSpeed": 0,
+	"pauseDuration": 0,
+	"matchName": "",
+	"matchDate": "",
+	"isTopView": false,
+	"fileVersion": "1.0.137",
+	"printLayoutPage": false,
+	"customImageForLayout": false,
+	"customImagePortrait": false,
+	"printBuildList": false,
+	"dynamicWeatherSettings":
+	{
+		"timeOfDay": 1000,
+		"animateSky": false,
+		"dayCycle": 30,
+		"nightCycle": 15,
+		"sunAngle": 270,
+		"moonAngle": 30,
+		"showLightShafts": true,
+		"showLensFlare": true,
+		"dynamicWeatherSelection": 1,
+		"enableShadows": true,
+		"indoorSettings": "No"
+	},
+	"osType": "Windows",
+	"printMoreViews": false,
+	"moreViewsCameraArray": [
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		""
+	],
+	"readyCondition": "",
+	"timeStart": "Audible",
+	"useCustomImageBottomBar": false,
+	"thumbnail": false,
+	"pcsl-division": "2-Gun",
+	"pcsl-partime": 0,
+	"override-hitcount": "",
+	"hideNotes": false,
+	"whiteLayoutBackground": false,
+	"stageType": 0,
+	"idpaWSBHideLogos": false,
+	"dontAutoDetermine": false,
+	"WSBFontChoice": 0,
+	"WSBFontSize": 0,
+	"isIDPAOverrideGenerate": false,
+	"authorEmail": "",
+	"gpaParList": [
+		{
+			"Category": "Base",
+			"Desc": "Draw",
+			"Value": 1,
+			"Par": 1
+		},
+		{
+			"Category": "Base",
+			"Desc": "Reload",
+			"Value": 1,
+			"Par": 1.5
+		},
+		{
+			"Category": "Base",
+			"Desc": "Per Shot factor",
+			"Value": 1,
+			"Par": 0.40000000596046448
+		}
+	],
+	"stageCode": ""
+}
