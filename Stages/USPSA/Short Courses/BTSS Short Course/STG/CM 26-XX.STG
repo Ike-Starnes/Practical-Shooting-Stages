@@ -1,7 +1,7 @@
 {
 	"stageName": "<some cool name>",
 	"stageAuthor": "<your name>",
-	"stageLastUpdate": "2026.02.18-16.00.13",
+	"stageLastUpdate": "2026.11.11-08.59.30",
 	"propList": [
 		{
 			"propName": "faultline-adjustable",
@@ -10,15 +10,15 @@
 				"Rotation":
 				{
 					"X": 0,
-					"Y": -0,
+					"Y": 0,
 					"Z": 0.0023246933706104755,
 					"W": 0.99999731779098511
 				},
 				"Translation":
 				{
-					"X": -695.310302734375,
-					"Y": -1071.177734375,
-					"Z": 2.10009765625
+					"X": -1248.42626953125,
+					"Y": -1160.021484375,
+					"Z": 2.100341796875
 				},
 				"Scale3D":
 				{
@@ -99,7 +99,14 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": true,
+			"propTags": [
+				"floor",
+				"prop",
+				"Colorable",
+				"MultiplePlateChoices"
+			]
 		},
 		{
 			"propName": "faultline-adjustable",
@@ -108,15 +115,15 @@
 				"Rotation":
 				{
 					"X": 0,
-					"Y": -0,
+					"Y": 0,
 					"Z": 0.99999850988388062,
 					"W": 0.0016886591911315918
 				},
 				"Translation":
 				{
-					"X": -334.1475830078125,
-					"Y": -821.36187744140625,
-					"Z": 2.10009765625
+					"X": -887.26348876953125,
+					"Y": -910.20556640625,
+					"Z": 2.100341796875
 				},
 				"Scale3D":
 				{
@@ -197,7 +204,14 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": true,
+			"propTags": [
+				"floor",
+				"prop",
+				"Colorable",
+				"MultiplePlateChoices"
+			]
 		},
 		{
 			"propName": "faultline-adjustable",
@@ -206,15 +220,15 @@
 				"Rotation":
 				{
 					"X": 0,
-					"Y": -0,
+					"Y": 0,
 					"Z": 0.70989120006561279,
 					"W": 0.70431137084960938
 				},
 				"Translation":
 				{
-					"X": -457.53143310546875,
-					"Y": -1184.8516845703125,
-					"Z": 2
+					"X": -1010.6473388671875,
+					"Y": -1273.6954345703125,
+					"Z": 2.000244140625
 				},
 				"Scale3D":
 				{
@@ -295,7 +309,14 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": true,
+			"propTags": [
+				"floor",
+				"prop",
+				"Colorable",
+				"MultiplePlateChoices"
+			]
 		},
 		{
 			"propName": "faultline-adjustable",
@@ -304,15 +325,15 @@
 				"Rotation":
 				{
 					"X": 0,
-					"Y": -0,
+					"Y": 0,
 					"Z": 0.70285528898239136,
 					"W": 0.71133285760879517
 				},
 				"Translation":
 				{
-					"X": -121.44804382324219,
-					"Y": -485.98007202148438,
-					"Z": 2
+					"X": -674.56396484375,
+					"Y": -574.82373046875,
+					"Z": 2.000244140625
 				},
 				"Scale3D":
 				{
@@ -393,7 +414,14 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": true,
+			"propTags": [
+				"floor",
+				"prop",
+				"Colorable",
+				"MultiplePlateChoices"
+			]
 		},
 		{
 			"propName": "faultline-adjustable",
@@ -401,16 +429,16 @@
 			{
 				"Rotation":
 				{
-					"X": -0,
+					"X": 0,
 					"Y": 0,
 					"Z": -0.005994739942252636,
 					"W": 0.99998205900192261
 				},
 				"Translation":
 				{
-					"X": -765.22503662109375,
-					"Y": -517.46099853515625,
-					"Z": 2.10009765625
+					"X": -1318.3409423828125,
+					"Y": -606.3046875,
+					"Z": 2.100341796875
 				},
 				"Scale3D":
 				{
@@ -491,7 +519,14 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": true,
+			"propTags": [
+				"floor",
+				"prop",
+				"Colorable",
+				"MultiplePlateChoices"
+			]
 		},
 		{
 			"propName": "faultline-adjustable",
@@ -499,20 +534,20 @@
 			{
 				"Rotation":
 				{
-					"X": 0,
-					"Y": -0,
-					"Z": 0.70493036508560181,
-					"W": 0.70927655696868896
+					"X": -0,
+					"Y": 0,
+					"Z": -0.70467621088027954,
+					"W": 0.70952904224395752
 				},
 				"Translation":
 				{
-					"X": -247.53305053710938,
-					"Y": -727.31182861328125,
-					"Z": 2.10009765625
+					"X": -758.14447021484375,
+					"Y": -575.7327880859375,
+					"Z": 6
 				},
 				"Scale3D":
 				{
-					"X": 24.486137390136719,
+					"X": 24.395282745361328,
 					"Y": 0.5,
 					"Z": 1
 				}
@@ -589,7 +624,14 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": true,
+			"propTags": [
+				"floor",
+				"prop",
+				"Colorable",
+				"MultiplePlateChoices"
+			]
 		},
 		{
 			"propName": "faultline-adjustable",
@@ -598,15 +640,15 @@
 				"Rotation":
 				{
 					"X": 0,
-					"Y": -0,
-					"Z": 0.0033420824911445379,
+					"Y": 0,
+					"Z": 0.0033420822583138943,
 					"W": 0.99999439716339111
 				},
 				"Translation":
 				{
-					"X": -284.17987060546875,
-					"Y": -478.64480590820312,
-					"Z": 2
+					"X": -837.2957763671875,
+					"Y": -567.48846435546875,
+					"Z": 2.000244140625
 				},
 				"Scale3D":
 				{
@@ -687,7 +729,14 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": true,
+			"propTags": [
+				"floor",
+				"prop",
+				"Colorable",
+				"MultiplePlateChoices"
+			]
 		},
 		{
 			"propName": "faultline-adjustable",
@@ -696,15 +745,15 @@
 				"Rotation":
 				{
 					"X": 0,
-					"Y": -0,
-					"Z": 0.0038229241035878658,
+					"Y": 0,
+					"Z": 0.0038229238707572222,
 					"W": 0.99999266862869263
 				},
 				"Translation":
 				{
-					"X": -766.3607177734375,
-					"Y": -325.888427734375,
-					"Z": 2
+					"X": -1319.4765625,
+					"Y": -414.73208618164062,
+					"Z": 2.000244140625
 				},
 				"Scale3D":
 				{
@@ -785,7 +834,14 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": true,
+			"propTags": [
+				"floor",
+				"prop",
+				"Colorable",
+				"MultiplePlateChoices"
+			]
 		},
 		{
 			"propName": "faultline-adjustable",
@@ -793,16 +849,16 @@
 			{
 				"Rotation":
 				{
-					"X": -0,
+					"X": 0,
 					"Y": 0,
 					"Z": -0.7156975269317627,
 					"W": 0.69841039180755615
 				},
 				"Translation":
 				{
-					"X": -452.93359375,
-					"Y": -732.8336181640625,
-					"Z": 5.08880615234375
+					"X": -1006.0494995117188,
+					"Y": -821.67730712890625,
+					"Z": 5.0890507698059082
 				},
 				"Scale3D":
 				{
@@ -883,7 +939,14 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": true,
+			"propTags": [
+				"floor",
+				"prop",
+				"Colorable",
+				"MultiplePlateChoices"
+			]
 		},
 		{
 			"propName": "faultline-adjustable",
@@ -892,15 +955,15 @@
 				"Rotation":
 				{
 					"X": 0,
-					"Y": -0,
-					"Z": 0.0033420822583138943,
+					"Y": 0,
+					"Z": 0.0033420820254832506,
 					"W": 0.99999439716339111
 				},
 				"Translation":
 				{
-					"X": -758.8304443359375,
-					"Y": -487.44873046875,
-					"Z": 2.10009765625
+					"X": -1311.9462890625,
+					"Y": -576.29241943359375,
+					"Z": 2.100341796875
 				},
 				"Scale3D":
 				{
@@ -981,7 +1044,14 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": true,
+			"propTags": [
+				"floor",
+				"prop",
+				"Colorable",
+				"MultiplePlateChoices"
+			]
 		},
 		{
 			"propName": "faultline-adjustable",
@@ -990,15 +1060,15 @@
 				"Rotation":
 				{
 					"X": 0,
-					"Y": -0,
+					"Y": 0,
 					"Z": 0.0023246933706104755,
 					"W": 0.99999731779098511
 				},
 				"Translation":
 				{
-					"X": -243.90267944335938,
-					"Y": -1067.490234375,
-					"Z": 12.00506591796875
+					"X": -797.0185546875,
+					"Y": -1156.333984375,
+					"Z": 12.005311012268066
 				},
 				"Scale3D":
 				{
@@ -1079,7 +1149,14 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": true,
+			"propTags": [
+				"floor",
+				"prop",
+				"Colorable",
+				"MultiplePlateChoices"
+			]
 		},
 		{
 			"propName": "faultline-adjustable",
@@ -1088,15 +1165,15 @@
 				"Rotation":
 				{
 					"X": 0,
-					"Y": -0,
+					"Y": 0,
 					"Z": 0.0023246933706104755,
 					"W": 0.99999731779098511
 				},
 				"Translation":
 				{
-					"X": -734.04376220703125,
-					"Y": -1073.12353515625,
-					"Z": 2.10009765625
+					"X": -1287.15966796875,
+					"Y": -1161.96728515625,
+					"Z": 2.100341796875
 				},
 				"Scale3D":
 				{
@@ -1177,7 +1254,14 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": true,
+			"propTags": [
+				"floor",
+				"prop",
+				"Colorable",
+				"MultiplePlateChoices"
+			]
 		},
 		{
 			"propName": "faultline-adjustable",
@@ -1185,16 +1269,16 @@
 			{
 				"Rotation":
 				{
-					"X": -0,
+					"X": 0,
 					"Y": 0,
 					"Z": -0.9999883770942688,
 					"W": 0.0048122406005859375
 				},
 				"Translation":
 				{
-					"X": -274.8056640625,
-					"Y": -727.7896728515625,
-					"Z": 2.10009765625
+					"X": -827.92156982421875,
+					"Y": -816.63336181640625,
+					"Z": 2.100341796875
 				},
 				"Scale3D":
 				{
@@ -1275,7 +1359,14 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": true,
+			"propTags": [
+				"floor",
+				"prop",
+				"Colorable",
+				"MultiplePlateChoices"
+			]
 		},
 		{
 			"propName": "faultline-adjustable",
@@ -1284,15 +1375,15 @@
 				"Rotation":
 				{
 					"X": 0,
-					"Y": -0,
+					"Y": 0,
 					"Z": 0.0052543766796588898,
 					"W": 0.99998617172241211
 				},
 				"Translation":
 				{
-					"X": -768.19140625,
-					"Y": -370.69107055664062,
-					"Z": 2.10009765625
+					"X": -1321.307373046875,
+					"Y": -459.53475952148438,
+					"Z": 2.100341796875
 				},
 				"Scale3D":
 				{
@@ -1373,7 +1464,14 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": true,
+			"propTags": [
+				"floor",
+				"prop",
+				"Colorable",
+				"MultiplePlateChoices"
+			]
 		},
 		{
 			"propName": "faultline-adjustable",
@@ -1381,16 +1479,16 @@
 			{
 				"Rotation":
 				{
-					"X": -0,
+					"X": 0,
 					"Y": 0,
 					"Z": -0.70473951101303101,
 					"W": 0.70946615934371948
 				},
 				"Translation":
 				{
-					"X": -762.629638671875,
-					"Y": -368.7706298828125,
-					"Z": 2.10009765625
+					"X": -1315.74560546875,
+					"Y": -457.61428833007812,
+					"Z": 2.100341796875
 				},
 				"Scale3D":
 				{
@@ -1471,7 +1569,14 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": true,
+			"propTags": [
+				"floor",
+				"prop",
+				"Colorable",
+				"MultiplePlateChoices"
+			]
 		},
 		{
 			"propName": "faultline-adjustable",
@@ -1480,15 +1585,15 @@
 				"Rotation":
 				{
 					"X": 0,
-					"Y": -0,
+					"Y": 0,
 					"Z": 0.70739865303039551,
 					"W": 0.70681476593017578
 				},
 				"Translation":
 				{
-					"X": -280.02389526367188,
-					"Y": -719.36962890625,
-					"Z": 5.4683837890625
+					"X": -833.1397705078125,
+					"Y": -808.21331787109375,
+					"Z": 5.4686279296875
 				},
 				"Scale3D":
 				{
@@ -1569,7 +1674,14 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": true,
+			"propTags": [
+				"floor",
+				"prop",
+				"Colorable",
+				"MultiplePlateChoices"
+			]
 		},
 		{
 			"propName": "faultline-adjustable",
@@ -1578,15 +1690,15 @@
 				"Rotation":
 				{
 					"X": 0,
-					"Y": -0,
+					"Y": 0,
 					"Z": 0.70739865303039551,
 					"W": 0.70681476593017578
 				},
 				"Translation":
 				{
-					"X": -638.48614501953125,
-					"Y": -726.88427734375,
-					"Z": 2
+					"X": -1191.60205078125,
+					"Y": -815.72796630859375,
+					"Z": 2.000244140625
 				},
 				"Scale3D":
 				{
@@ -1667,7 +1779,14 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": true,
+			"propTags": [
+				"floor",
+				"prop",
+				"Colorable",
+				"MultiplePlateChoices"
+			]
 		},
 		{
 			"propName": "faultline-adjustable",
@@ -1678,13 +1797,13 @@
 					"X": 0,
 					"Y": -0,
 					"Z": 0.99999982118606567,
-					"W": 0.00053876638412475586
+					"W": 0.00053882598876953125
 				},
 				"Translation":
 				{
-					"X": -278.17916870117188,
-					"Y": -686.15228271484375,
-					"Z": 2.10009765625
+					"X": -827.60302734375,
+					"Y": -738.58538818359375,
+					"Z": 6
 				},
 				"Scale3D":
 				{
@@ -1765,7 +1884,14 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": true,
+			"propTags": [
+				"floor",
+				"prop",
+				"Colorable",
+				"MultiplePlateChoices"
+			]
 		},
 		{
 			"propName": "faultline-adjustable",
@@ -1773,16 +1899,16 @@
 			{
 				"Rotation":
 				{
-					"X": -0,
+					"X": 0,
 					"Y": 0,
 					"Z": -0.70473951101303101,
 					"W": 0.70946615934371948
 				},
 				"Translation":
 				{
-					"X": -158.21626281738281,
-					"Y": -361.63787841796875,
-					"Z": 2.10009765625
+					"X": -711.3321533203125,
+					"Y": -450.48153686523438,
+					"Z": 2.100341796875
 				},
 				"Scale3D":
 				{
@@ -1863,7 +1989,14 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": true,
+			"propTags": [
+				"floor",
+				"prop",
+				"Colorable",
+				"MultiplePlateChoices"
+			]
 		},
 		{
 			"propName": "faultline-adjustable",
@@ -1872,15 +2005,15 @@
 				"Rotation":
 				{
 					"X": 0,
-					"Y": -0,
+					"Y": 0,
 					"Z": 0.99999850988388062,
 					"W": 0.0016886591911315918
 				},
 				"Translation":
 				{
-					"X": -516.500732421875,
-					"Y": -823.420654296875,
-					"Z": 2.10009765625
+					"X": -1069.61669921875,
+					"Y": -912.26434326171875,
+					"Z": 2.100341796875
 				},
 				"Scale3D":
 				{
@@ -1961,7 +2094,14 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": true,
+			"propTags": [
+				"floor",
+				"prop",
+				"Colorable",
+				"MultiplePlateChoices"
+			]
 		},
 		{
 			"propName": "faultline-adjustable",
@@ -1970,15 +2110,15 @@
 				"Rotation":
 				{
 					"X": 0,
-					"Y": -0,
+					"Y": 0,
 					"Z": 0.0023246933706104755,
 					"W": 0.99999731779098511
 				},
 				"Translation":
 				{
-					"X": -206.076416015625,
-					"Y": -1070.06103515625,
-					"Z": 2.10009765625
+					"X": -759.19232177734375,
+					"Y": -1158.90478515625,
+					"Z": 2.100341796875
 				},
 				"Scale3D":
 				{
@@ -2059,7 +2199,14 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": true,
+			"propTags": [
+				"floor",
+				"prop",
+				"Colorable",
+				"MultiplePlateChoices"
+			]
 		},
 		{
 			"propName": "one-X",
@@ -2074,9 +2221,9 @@
 				},
 				"Translation":
 				{
-					"X": -473.94741821289062,
-					"Y": -715.9520263671875,
-					"Z": 0.10009765625
+					"X": -1027.0633544921875,
+					"Y": -804.79571533203125,
+					"Z": 0.100341796875
 				},
 				"Scale3D":
 				{
@@ -2157,7 +2304,12 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": true,
+			"propTags": [
+				"prop",
+				"Colorable"
+			]
 		},
 		{
 			"propName": "one-X",
@@ -2172,9 +2324,9 @@
 				},
 				"Translation":
 				{
-					"X": -440.171142578125,
-					"Y": -715.7662353515625,
-					"Z": 0.10009765625
+					"X": -993.28704833984375,
+					"Y": -804.60992431640625,
+					"Z": 0.100341796875
 				},
 				"Scale3D":
 				{
@@ -2255,7 +2407,12 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": true,
+			"propTags": [
+				"prop",
+				"Colorable"
+			]
 		},
 		{
 			"propName": "wall-med-color",
@@ -2264,15 +2421,15 @@
 				"Rotation":
 				{
 					"X": 0,
-					"Y": -0,
+					"Y": 0,
 					"Z": 0.70710563659667969,
 					"W": 0.70710790157318115
 				},
 				"Translation":
 				{
-					"X": -208.95683288574219,
-					"Y": -948.339599609375,
-					"Z": 0.10009765625
+					"X": -762.07275390625,
+					"Y": -1037.183349609375,
+					"Z": 0.100341796875
 				},
 				"Scale3D":
 				{
@@ -2353,7 +2510,14 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": true,
+			"propTags": [
+				"prop",
+				"Colorable",
+				"hasSecondaryColors",
+				"MultiplePaperChoices"
+			]
 		},
 		{
 			"propName": "wall-med-color",
@@ -2362,15 +2526,15 @@
 				"Rotation":
 				{
 					"X": 0,
-					"Y": -0,
+					"Y": 0,
 					"Z": 0.70710563659667969,
 					"W": 0.70710790157318115
 				},
 				"Translation":
 				{
-					"X": -698.39892578125,
-					"Y": -949.2628173828125,
-					"Z": 0.10009765625
+					"X": -1251.514892578125,
+					"Y": -1038.1064453125,
+					"Z": 0.100341796875
 				},
 				"Scale3D":
 				{
@@ -2451,7 +2615,14 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": true,
+			"propTags": [
+				"prop",
+				"Colorable",
+				"hasSecondaryColors",
+				"MultiplePaperChoices"
+			]
 		},
 		{
 			"propName": "uspsa-full-target",
@@ -2466,9 +2637,9 @@
 				},
 				"Translation":
 				{
-					"X": -761.01165771484375,
-					"Y": -1070.61279296875,
-					"Z": 0.10009765625
+					"X": -1314.1275634765625,
+					"Y": -1159.45654296875,
+					"Z": 0.100341796875
 				},
 				"Scale3D":
 				{
@@ -2549,7 +2720,12 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": false,
+			"propTags": [
+				"paper",
+				"prop"
+			]
 		},
 		{
 			"propName": "uspsa-full-target",
@@ -2564,9 +2740,9 @@
 				},
 				"Translation":
 				{
-					"X": -268.22146606445312,
-					"Y": -1067.2562255859375,
-					"Z": 0.10009765625
+					"X": -821.33740234375,
+					"Y": -1156.0999755859375,
+					"Z": 0.100341796875
 				},
 				"Scale3D":
 				{
@@ -2647,7 +2823,12 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": false,
+			"propTags": [
+				"paper",
+				"prop"
+			]
 		},
 		{
 			"propName": "uspsa-full-target",
@@ -2662,9 +2843,9 @@
 				},
 				"Translation":
 				{
-					"X": -148.30488586425781,
-					"Y": -1068.209716796875,
-					"Z": 0.10009765625
+					"X": -701.4207763671875,
+					"Y": -1157.053466796875,
+					"Z": 0.100341796875
 				},
 				"Scale3D":
 				{
@@ -2745,7 +2926,12 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": false,
+			"propTags": [
+				"paper",
+				"prop"
+			]
 		},
 		{
 			"propName": "uspsa-full-target",
@@ -2760,9 +2946,9 @@
 				},
 				"Translation":
 				{
-					"X": -640.237060546875,
-					"Y": -1068.388671875,
-					"Z": 0.10009765625
+					"X": -1193.35302734375,
+					"Y": -1157.232421875,
+					"Z": 0.100341796875
 				},
 				"Scale3D":
 				{
@@ -2843,7 +3029,12 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": false,
+			"propTags": [
+				"paper",
+				"prop"
+			]
 		},
 		{
 			"propName": "wall-short-color",
@@ -2858,9 +3049,9 @@
 				},
 				"Translation":
 				{
-					"X": -460.283203125,
-					"Y": -821.14971923828125,
-					"Z": 0.10009765625
+					"X": -1013.3991088867188,
+					"Y": -909.993408203125,
+					"Z": 0.100341796875
 				},
 				"Scale3D":
 				{
@@ -2941,7 +3132,14 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": true,
+			"propTags": [
+				"prop",
+				"Colorable",
+				"hasSecondaryColors",
+				"MultiplePaperChoices"
+			]
 		},
 		{
 			"propName": "wall-short-color",
@@ -2956,9 +3154,9 @@
 				},
 				"Translation":
 				{
-					"X": -270.70867919921875,
-					"Y": -820.37725830078125,
-					"Z": 0.10009765625
+					"X": -823.8245849609375,
+					"Y": -909.220947265625,
+					"Z": 0.100341796875
 				},
 				"Scale3D":
 				{
@@ -3039,7 +3237,14 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": true,
+			"propTags": [
+				"prop",
+				"Colorable",
+				"hasSecondaryColors",
+				"MultiplePaperChoices"
+			]
 		},
 		{
 			"propName": "wall-short-color",
@@ -3047,16 +3252,16 @@
 			{
 				"Rotation":
 				{
-					"X": -0,
+					"X": 0,
 					"Y": 0,
 					"Z": -0.70710676908493042,
 					"W": 0.70710670948028564
 				},
 				"Translation":
 				{
-					"X": -456.02761840820312,
-					"Y": -883.36553955078125,
-					"Z": 0.10009765625
+					"X": -1009.1435546875,
+					"Y": -972.209228515625,
+					"Z": 0.100341796875
 				},
 				"Scale3D":
 				{
@@ -3137,7 +3342,14 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": true,
+			"propTags": [
+				"prop",
+				"Colorable",
+				"hasSecondaryColors",
+				"MultiplePaperChoices"
+			]
 		},
 		{
 			"propName": "wall-short-color",
@@ -3152,9 +3364,9 @@
 				},
 				"Translation":
 				{
-					"X": -639.3876953125,
-					"Y": -822.0157470703125,
-					"Z": 0.10009765625
+					"X": -1192.503662109375,
+					"Y": -910.85943603515625,
+					"Z": 0.100341796875
 				},
 				"Scale3D":
 				{
@@ -3235,7 +3447,14 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": true,
+			"propTags": [
+				"prop",
+				"Colorable",
+				"hasSecondaryColors",
+				"MultiplePaperChoices"
+			]
 		},
 		{
 			"propName": "uspsa-noshoot",
@@ -3250,107 +3469,9 @@
 				},
 				"Translation":
 				{
-					"X": -148.16835021972656,
-					"Y": -1067.8184814453125,
-					"Z": 92.560333251953125
-				},
-				"Scale3D":
-				{
-					"X": 1,
-					"Y": 1,
-					"Z": 1
-				}
-			},
-			"uniqueID": 91,
-			"activateIDs": [],
-			"groupID": [],
-			"zOffset": 0,
-			"customAdImageFilename": "",
-			"customAdImage": "",
-			"customColor":
-			{
-				"R": 1,
-				"G": 1,
-				"B": 1,
-				"A": 1
-			},
-			"waypointNumber": 0,
-			"waypointDelayDuration": 2,
-			"waypointStance": "walk",
-			"width": 1,
-			"height": 1,
-			"depth": 1,
-			"isLocked": false,
-			"customText": "",
-			"customPropDetails":
-			{
-				"customPropName": "",
-				"customPropGLBFilePath": "",
-				"customPropAuthor": ""
-			},
-			"sightlinePrecision": 0,
-			"customTextColor":
-			{
-				"R": 0.019999999552965164,
-				"G": 0.019999999552965164,
-				"B": 0.019999999552965164,
-				"A": 1
-			},
-			"swingerAngle": 90,
-			"portOpen": false,
-			"isRuler": false,
-			"fontSelection": 0,
-			"isShowTargetText": true,
-			"paperModifierRotation":
-			{
-				"X": 0,
-				"Y": 0,
-				"Z": 0
-			},
-			"targetTextHeightOffset": 220,
-			"hasTargetTextChanged": false,
-			"customSecondaryColor":
-			{
-				"R": 1,
-				"G": 1,
-				"B": 1,
-				"A": 1
-			},
-			"plateChoice": 0,
-			"rulerTipChoice": 0,
-			"rulerStyleChoice": 0,
-			"rulerThickness": 0,
-			"rulerFontSizeScale": 0,
-			"rulerTipChoice2": 0,
-			"paperChoice": 0,
-			"rulerTextPosition": 0,
-			"rulerTextOverride": "",
-			"rulerIgnoreFaceText": false,
-			"rackPattern": "000000",
-			"propOffset":
-			{
-				"X": 0,
-				"Y": 0,
-				"Z": 0
-			},
-			"fontSize": 6
-		},
-		{
-			"propName": "uspsa-noshoot",
-			"propTransform":
-			{
-				"Rotation":
-				{
-					"X": -8.9407171799393836e-07,
-					"Y": 0.99999994039535522,
-					"Z": -3.5763315509029781e-07,
-					"W": -5.9008584685216192e-06
-				},
-				"Translation":
-				{
-					"X": -760.8751220703125,
-					"Y": -1070.2215576171875,
-					"Z": 92.560333251953125
+					"X": -1313.990966796875,
+					"Y": -1159.0653076171875,
+					"Z": 92.560577392578125
 				},
 				"Scale3D":
 				{
@@ -3431,33 +3552,39 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": false,
+			"propTags": [
+				"noshoot",
+				"prop",
+				"PaperModifier"
+			]
 		},
 		{
-			"propName": "simple-berm-mud",
+			"propName": "uspsa-noshoot",
 			"propTransform":
 			{
 				"Rotation":
 				{
-					"X": -0,
-					"Y": 0,
-					"Z": -0.99999994039535522,
-					"W": 3.5762786865234375e-07
+					"X": -8.9407171799393836e-07,
+					"Y": 0.99999994039535522,
+					"Z": -3.5763315509029781e-07,
+					"W": -5.9008584685216192e-06
 				},
 				"Translation":
 				{
-					"X": 856.037353515625,
-					"Y": -117.60498046875,
-					"Z": 0.10009765625
+					"X": -701.28424072265625,
+					"Y": -1156.6622314453125,
+					"Z": 92.560577392578125
 				},
 				"Scale3D":
 				{
 					"X": 1,
-					"Y": 0.93000006675720215,
-					"Z": 0.93000006675720215
+					"Y": 1,
+					"Z": 1
 				}
 			},
-			"uniqueID": 72,
+			"uniqueID": 91,
 			"activateIDs": [],
 			"groupID": [],
 			"zOffset": 0,
@@ -3474,8 +3601,8 @@
 			"waypointDelayDuration": 2,
 			"waypointStance": "walk",
 			"width": 1,
-			"height": 0.93000006675720215,
-			"depth": 0.93000006675720215,
+			"height": 1,
+			"depth": 1,
 			"isLocked": false,
 			"customText": "",
 			"customPropDetails":
@@ -3501,7 +3628,7 @@
 			{
 				"X": 0,
 				"Y": 0,
-				"Z": -180
+				"Z": 0
 			},
 			"targetTextHeightOffset": 220,
 			"hasTargetTextChanged": false,
@@ -3529,203 +3656,13 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
-		},
-		{
-			"propName": "simple-berm-mud",
-			"propTransform":
-			{
-				"Rotation":
-				{
-					"X": 0,
-					"Y": -0,
-					"Z": 0.7071068286895752,
-					"W": 0.70710670948028564
-				},
-				"Translation":
-				{
-					"X": -510.1287841796875,
-					"Y": -1596.3472900390625,
-					"Z": 0.100341796875
-				},
-				"Scale3D":
-				{
-					"X": 1.0399999618530273,
-					"Y": 1.1899998188018799,
-					"Z": 1.1899998188018799
-				}
-			},
-			"uniqueID": 73,
-			"activateIDs": [],
-			"groupID": [],
-			"zOffset": 0,
-			"customAdImageFilename": "",
-			"customAdImage": "",
-			"customColor":
-			{
-				"R": 1,
-				"G": 1,
-				"B": 1,
-				"A": 1
-			},
-			"waypointNumber": 0,
-			"waypointDelayDuration": 2,
-			"waypointStance": "walk",
-			"width": 1.0399999618530273,
-			"height": 1.1899998188018799,
-			"depth": 1.1899998188018799,
-			"isLocked": false,
-			"customText": "",
-			"customPropDetails":
-			{
-				"customPropName": "",
-				"customPropGLBFilePath": "",
-				"customPropAuthor": ""
-			},
-			"sightlinePrecision": 0,
-			"customTextColor":
-			{
-				"R": 0.019999999552965164,
-				"G": 0.019999999552965164,
-				"B": 0.019999999552965164,
-				"A": 1
-			},
-			"swingerAngle": 90,
-			"portOpen": false,
-			"isRuler": false,
-			"fontSelection": 0,
-			"isShowTargetText": true,
-			"paperModifierRotation":
-			{
-				"X": 0,
-				"Y": 0,
-				"Z": -270
-			},
-			"targetTextHeightOffset": 220,
-			"hasTargetTextChanged": false,
-			"customSecondaryColor":
-			{
-				"R": 1,
-				"G": 1,
-				"B": 1,
-				"A": 1
-			},
-			"plateChoice": 0,
-			"rulerTipChoice": 0,
-			"rulerStyleChoice": 0,
-			"rulerThickness": 0,
-			"rulerFontSizeScale": 0,
-			"rulerTipChoice2": 0,
-			"paperChoice": 0,
-			"rulerTextPosition": 0,
-			"rulerTextOverride": "",
-			"rulerIgnoreFaceText": false,
-			"rackPattern": "000000",
-			"propOffset":
-			{
-				"X": 0,
-				"Y": 0,
-				"Z": 0
-			},
-			"fontSize": 6
-		},
-		{
-			"propName": "simple-berm-mud",
-			"propTransform":
-			{
-				"Rotation":
-				{
-					"X": 0,
-					"Y": 0,
-					"Z": 0,
-					"W": 1
-				},
-				"Translation":
-				{
-					"X": -1766.5235595703125,
-					"Y": -17.040283203125,
-					"Z": 0.100341796875
-				},
-				"Scale3D":
-				{
-					"X": 1,
-					"Y": 0.93000006675720215,
-					"Z": 0.93000006675720215
-				}
-			},
-			"uniqueID": 74,
-			"activateIDs": [],
-			"groupID": [],
-			"zOffset": 0,
-			"customAdImageFilename": "",
-			"customAdImage": "",
-			"customColor":
-			{
-				"R": 1,
-				"G": 1,
-				"B": 1,
-				"A": 1
-			},
-			"waypointNumber": 0,
-			"waypointDelayDuration": 2,
-			"waypointStance": "walk",
-			"width": 1,
-			"height": 0.93000006675720215,
-			"depth": 0.93000006675720215,
-			"isLocked": false,
-			"customText": "",
-			"customPropDetails":
-			{
-				"customPropName": "",
-				"customPropGLBFilePath": "",
-				"customPropAuthor": ""
-			},
-			"sightlinePrecision": 0,
-			"customTextColor":
-			{
-				"R": 0.019999999552965164,
-				"G": 0.019999999552965164,
-				"B": 0.019999999552965164,
-				"A": 1
-			},
-			"swingerAngle": 90,
-			"portOpen": false,
-			"isRuler": false,
-			"fontSelection": 0,
-			"isShowTargetText": true,
-			"paperModifierRotation":
-			{
-				"X": 0,
-				"Y": 0,
-				"Z": -360
-			},
-			"targetTextHeightOffset": 220,
-			"hasTargetTextChanged": false,
-			"customSecondaryColor":
-			{
-				"R": 1,
-				"G": 1,
-				"B": 1,
-				"A": 1
-			},
-			"plateChoice": 0,
-			"rulerTipChoice": 0,
-			"rulerStyleChoice": 0,
-			"rulerThickness": 0,
-			"rulerFontSizeScale": 0,
-			"rulerTipChoice2": 0,
-			"paperChoice": 0,
-			"rulerTextPosition": 0,
-			"rulerTextOverride": "",
-			"rulerIgnoreFaceText": false,
-			"rackPattern": "000000",
-			"propOffset":
-			{
-				"X": 0,
-				"Y": 0,
-				"Z": 0
-			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": false,
+			"propTags": [
+				"noshoot",
+				"prop",
+				"PaperModifier"
+			]
 		},
 		{
 			"propName": "uspsa-two-stack-noshoot",
@@ -3740,9 +3677,9 @@
 				},
 				"Translation":
 				{
-					"X": -457.016357421875,
-					"Y": -1187.54638671875,
-					"Z": 0.10009765625
+					"X": -1010.1322631835938,
+					"Y": -1276.39013671875,
+					"Z": 0.100341796875
 				},
 				"Scale3D":
 				{
@@ -3823,7 +3760,13 @@
 				"Y": 0,
 				"Z": 0
 			},
-			"fontSize": 6
+			"fontSize": 6,
+			"hasCustomColor": false,
+			"propTags": [
+				"paper",
+				"noshoot",
+				"prop"
+			]
 		}
 	],
 	"stageBrief": "Welcome to stage <some cool name>. My name is <your name> and I am the CRO for this stage.\r\n\r\n<some cool name> is a 0 round, 0 point COMSTOCK <stage-size> course. There are 0 <metric/classic> targets and 0 steel. The start signal is audible.\r\n\r\nThe start position is standing anywhere in the shooting area, facing down range with wrists below belt. Handgun is loaded and holstered.\r\nPCC start position is standing anywhere in the shooting area, facing down range, stock on belt, safety on, muzzle pointed down range, loaded carbine held in both hands with safety on.\r\n\r\nOn the audible start signal, engage all targets from within the shooting area. Best two hits on paper and steel must fall to score.",
@@ -3867,114 +3810,114 @@
 	"customCameraFOV": 5000,
 	"stageShape":
 	{
-		"presetName": "Rowan Bay 1",
+		"presetName": "LKN Rifle Bay",
 		"arrayVector2D": [
 			{
 				"X": 1,
 				"Y": 1
 			},
 			{
-				"X": 33,
+				"X": 16.25,
 				"Y": 1
 			},
 			{
-				"X": 65,
+				"X": 31.5,
 				"Y": 1
 			},
 			{
-				"X": 97,
+				"X": 46.75,
 				"Y": 1
 			},
 			{
-				"X": 129,
+				"X": 62,
 				"Y": 1
 			},
 			{
-				"X": 161,
+				"X": 77.25,
 				"Y": 1
 			},
 			{
-				"X": 193,
+				"X": 92.5,
 				"Y": 1
 			},
 			{
-				"X": 193,
-				"Y": 40.633331298828125
+				"X": 92.5,
+				"Y": 39.100006103515625
 			},
 			{
-				"X": 193,
-				"Y": 80.266677856445312
+				"X": 92.5,
+				"Y": 77.199996948242188
 			},
 			{
-				"X": 193,
-				"Y": 119.90000915527344
+				"X": 92.5,
+				"Y": 115.30000305175781
 			},
 			{
-				"X": 193,
-				"Y": 159.53334045410156
+				"X": 92.5,
+				"Y": 153.40000915527344
 			},
 			{
-				"X": 193,
-				"Y": 199.16667175292969
+				"X": 92.5,
+				"Y": 191.50001525878906
 			},
 			{
-				"X": 193,
-				"Y": 238.80003356933594
+				"X": 92.5,
+				"Y": 229.59999084472656
 			},
 			{
-				"X": 161,
-				"Y": 238.80000305175781
+				"X": 77.25,
+				"Y": 229.59999084472656
 			},
 			{
-				"X": 129,
-				"Y": 238.80000305175781
+				"X": 62,
+				"Y": 229.59999084472656
 			},
 			{
-				"X": 97,
-				"Y": 238.80000305175781
+				"X": 46.75,
+				"Y": 229.59999084472656
 			},
 			{
-				"X": 65,
-				"Y": 238.80000305175781
+				"X": 31.5,
+				"Y": 229.59999084472656
 			},
 			{
-				"X": 33,
-				"Y": 238.80000305175781
-			},
-			{
-				"X": 1,
-				"Y": 238.80000305175781
+				"X": 16.25,
+				"Y": 229.59999084472656
 			},
 			{
 				"X": 1,
-				"Y": 199.16667175292969
+				"Y": 229.59999084472656
 			},
 			{
 				"X": 1,
-				"Y": 159.53334045410156
+				"Y": 191.50001525878906
 			},
 			{
 				"X": 1,
-				"Y": 119.90000915527344
+				"Y": 153.40000915527344
 			},
 			{
 				"X": 1,
-				"Y": 80.266677856445312
+				"Y": 115.30000305175781
 			},
 			{
 				"X": 1,
-				"Y": 40.633331298828125
+				"Y": 77.199996948242188
+			},
+			{
+				"X": 1,
+				"Y": 39.100006103515625
 			},
 			{
 				"X": 1,
 				"Y": 1
 			}
 		],
-		"wallTexture": 16,
+		"wallTexture": 19,
 		"groundTexture": "White",
 		"showHideFrontWalls": false,
-		"width": 19.200000762939453,
-		"height": 23.780000686645508,
+		"width": 9.1499996185302734,
+		"height": 22.860000610351562,
 		"wallHeight": 0
 	},
 	"upvotes": 0,
@@ -4040,7 +3983,7 @@
 					"Z": 1
 				}
 			},
-			"camFOV": 90,
+			"camFOV": 79.975982666015625,
 			"camName": "Default",
 			"camPerspective": "Perspective",
 			"camSequenceNo": 0,
@@ -4056,7 +3999,9 @@
 			"contrastSetting": 1,
 			"gammaSetting": 1,
 			"showLegend": false,
-			"hideMarkers": false
+			"hideMarkers": false,
+			"hideGrid": false,
+			"camSettingsVersion": 2
 		}
 	],
 	"playbackSpeed": 0,
@@ -4064,7 +4009,7 @@
 	"matchName": "",
 	"matchDate": "",
 	"isTopView": false,
-	"fileVersion": "1.0.134.5",
+	"fileVersion": "1.0.165.1",
 	"printLayoutPage": false,
 	"customImageForLayout": false,
 	"customImagePortrait": false,
@@ -4112,5 +4057,7 @@
 	"isIDPAOverrideGenerate": false,
 	"authorEmail": "",
 	"gpaParList": [],
-	"stageCode": ""
+	"stageCode": "",
+	"stageSponsor": "",
+	"lastSavedBy": "PractisimDesignerUnreal"
 }
